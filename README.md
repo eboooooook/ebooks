@@ -21,6 +21,7 @@ A repository for  ebooks， including C, C plus plus, Linux Kernel, Compiler, OS
 │   │   ├── C语言标准.pdf
 │   │   ├── C陷阱与缺陷.pdf
 │   │   ├── Learn C the Hard Way.pdf
+|   |   ├── 笨办法学C语言.pdf
 │   │   ├── 啊哈C语言书.pdf
 │   │   └── 明解C语言  中级篇.pdf
 │   └── Cpp
